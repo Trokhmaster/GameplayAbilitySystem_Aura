@@ -535,3 +535,5 @@ Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/Aura/UnrealEditor-Aura-Win64
 Intermediate/CachedAssetRegistry_0.bin
 Intermediate/ProjectFiles/.Rider/Win64/DebugGame/Editor/Aura.json
 Intermediate/ProjectFiles/.Rider/Win64/DebugGame/Editor/UE5.json
+/Intermediate
+/Saved
