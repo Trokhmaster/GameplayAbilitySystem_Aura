@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\gascourse\\aura\\source\\aura\\aura.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\gascourse\\aura\\intermediate\\build\\win64\\x64\\auraeditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "d:\\gascourse\\aura\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\aura\\definitions.aura.h",
+            "d:\\gascourse\\aura\\source\\aura\\aura.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

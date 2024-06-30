@@ -1,6 +1,6 @@
 Binaries
 DerivedDataCache
-Intermediate
+Intermediate/
 Saved
 Build
 
@@ -14,3 +14,4 @@ Build
 *.suo
 *.xcodeproj
 *.xcworkspace
+*.pch

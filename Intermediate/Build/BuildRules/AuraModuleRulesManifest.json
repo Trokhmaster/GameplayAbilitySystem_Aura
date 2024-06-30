@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\GAScourse\\Aura\\Source\\Aura\\Aura.Build.cs",
+		"D:\\GAScourse\\Aura\\Source\\Aura.Target.cs",
+		"D:\\GAScourse\\Aura\\Source\\AuraEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.0"
+}

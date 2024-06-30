@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Aura-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\GAScourse\Aura\Intermediate\Build\Win64\x64\AuraEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.InclOrderOldest.h.obj"
+"D:\GAScourse\Aura\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Aura\Aura.init.gen.cpp.obj"
+"D:\GAScourse\Aura\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Aura\AuraCharacterBase.gen.cpp.obj"
+"D:\GAScourse\Aura\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Aura\Aura.cpp.obj"
+"D:\GAScourse\Aura\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Aura\AuraCharacterBase.cpp.obj"
+"D:\GAScourse\Aura\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Aura\Default.rc2.res"
+/OUT:"D:\GAScourse\Aura\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Aura\UnrealEditor-Aura-Win64-DebugGame.lib"
