@@ -8,6 +8,11 @@ void UAuraWidgetController::BroadcastInitValues()
 	
 }
 
+void UAuraWidgetController::BindCallbacksToDependencies() const
+{
+	
+}
+
 void UAuraWidgetController::SetWidgetControllerParams(const FWidgetControllerParams& WCParams)
 {
 	PlayerController = WCParams.PlayerController;
